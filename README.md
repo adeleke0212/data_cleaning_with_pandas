@@ -4,8 +4,6 @@
 
 ## Description
 
---this is just dummy text, normal project we have actual project description
-
 As an Int’l company, Bissan Exports are intentional
 about the travel destinations of their employees.
 They study these visited locations - understanding
