@@ -1,3 +1,2 @@
-# Remove all csvs from being pushed
 *.csv
-# the file in a specific folder will be ignored with /foldername/filename
+.gitignore
